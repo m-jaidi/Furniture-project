@@ -1,0 +1,110 @@
+.bg-image {
+    background-image: url("./img/pageBcg/bannerBcg.jpeg");
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.bg-image1 {
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(207, 31, 31, 0.5)), url("./img/home-filler.jpeg");
+    background-size: cover;
+    background-position: center bottom;
+    background-attachment: fixed;
+    
+
+}
+
+.bg-image2 {
+    background-image: url("./img/pageBcg/productsBcg.jpeg");
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.bg-image3 {
+    background-image: url("./img/pageBcg/singleBcg.jpeg");
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.bg-image4 {
+    background-image: url("./img/pageBcg/storeBcg.jpeg");
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+.color-red {
+    display: block;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    background-color: red;
+}
+.color-black {
+    display: block;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    background-color: black;
+  }
+  .color-green {
+    display: block;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    background-color: green;
+  }
+  .color-blue {
+    display: block;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    background-color: blue;
+  }
+  
+  .color-yellow {
+    display: block;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    background-color: yellow;
+  }
+
+#banner-text {
+    padding: 150px 0px;
+    margin-left: 20px;
+}
+
+#banner-text1 {
+    padding: 100px 0px;
+    margin-left: 20px;
+}
+
+#banner-text2 {
+    background-color: white;
+    opacity: 0.6;
+    padding: 120px 0px 50px 0px;
+}
+
+#banner-text3 {
+    background-color: white;
+    opacity: 0.6;
+    padding: 120px 0px 50px 0px;
+    
+}
+
+.fab {
+    color: yellow;
+}
+
+.fas {
+    color: yellow;
+}
+
+.table tr td{
+    padding:50px 0px;
+}
